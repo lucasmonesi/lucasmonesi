@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas
 
-<!--
-**lucasmonesi/lucasmonesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Desenvolvedor focado em APIs REST e backend  
+📍 São Paulo, Brasil
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias
+C# · ASP.NET Core · Java · SQL · HTML · CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- ApiBiblioteca — API REST em C#
+- BestStoreMVC — MVC com ASP.NET Core
+- java-library-oop — Orientação a objetos em Java
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/lucas-santiago-739a39337)
