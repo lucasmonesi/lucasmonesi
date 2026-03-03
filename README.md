@@ -5,7 +5,7 @@
 - São Paulo, Brasil
 
 ## 🛠 Tecnologias
-C# · ASP.NET Core · Java · SQL · HTML · CSS
+C# · ASP.NET Core · Java · SQL · HTML · CSS · JS
 
 ## Projetos em destaque
 - ApiBiblioteca — API REST em C#
