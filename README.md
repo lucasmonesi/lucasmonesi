@@ -4,7 +4,7 @@
 - Desenvolvedor focado em APIs REST e backend  
 - São Paulo, Brasil
 
-## 🛠 Tecnologias
+## Tecnologias
 C# · ASP.NET Core · Java · SQL · HTML · CSS · JS
 
 ## Projetos em destaque
