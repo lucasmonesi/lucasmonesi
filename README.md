@@ -1,7 +1,7 @@
 # Olá
 
 - Estudante de Sistemas de Informação  
-- Desenvolvedor focado em APIs REST e backend  
+- Aprendendo APIs REST e backend  
 - São Paulo, Brasil
 
 ## Tecnologias
